@@ -1,0 +1,257 @@
+name,terminology,code,term,name_old
+stroke,SNOMED,230708002,Posterior cerebral circulation hemorrhagic infarction (disorder),stroke_NOS
+hypertension,SNOMED,194780003,Hypertensive heart and renal disease with renal failure,null
+stroke,SNOMED,230699008,Pure motor lacunar syndrome,stroke_IS
+stroke,SNOMED,230700009,Pure sensory lacunar infarction,stroke_IS
+AMI,SNOMED,233833005,Acute Q wave infarction - lateral (disorder),null
+AMI,SNOMED,233834004,Acute non-Q wave infarction - lateral (disorder),null
+AF,SNOMED,15964901000119107,Atypical atrial flutter (disorder),null
+AF,SNOMED,164889003,ECG: atrial fibrillation,null
+AMI,SNOMED,194809007,Acute atrial infarction,null
+AMI,SNOMED,42531007,Microinfarct of heart,null
+stroke,SNOMED,1089421000000105,Cerebral infarction due to stenosis of cerebral artery (disorder),stroke_IS
+stroke,SNOMED,230709005,Massive supratentorial cerebral hemorrhage (disorder),stroke_HS
+stroke,SNOMED,230710000,Lobar cerebral hemorrhage,stroke_HS
+stroke,ICD10,I638,Cerebral infarction,stroke_IS
+stroke,ICD10,I639,Cerebral infarction,stroke_IS
+stroke,ICD10,I61,Nontraumatic intracerebral hemorrhage,stroke_HS
+stroke,SNOMED,1078001000000105,Haemorrhagic stroke (disorder),stroke_HS
+stroke,ICD10,I631,Cerebral infarction,stroke_IS
+AF,SNOMED,164890007,ECG: atrial flutter,null
+stroke,SNOMED,734384004,Thrombosis of right middle cerebral artery (disorder),stroke_IS
+stroke,SNOMED,230696001,Posterior cerebral circulation infarction (disorder),stroke_IS
+AMI,ICD10,I23,Certain current complications following acute myocardial infarction,null
+AMI,SNOMED,15712881000119105,Acute ST segment elevation myocardial infarction of anterolateral wall (disorder),null
+AMI,SNOMED,15712921000119103,Acute ST segment elevation myocardial infarction of lateral wall (disorder),null
+AMI,SNOMED,233838001,Acute posterior myocardial infarction,null
+AMI,SNOMED,304914007,Acute Q wave myocardial infarction,null
+AMI,ICD10,I22,Subsequent myocardial infarction,null
+AF,SNOMED,120041000119109,Atrial fibrillation with rapid ventricular response (disorder),null
+AMI,SNOMED,233835003,Acute widespread myocardial infarction (disorder),null
+hypertension,SNOMED,908651000000101,Stage 1 hypertension (National Institute for Health and Clinical Excellence 2011) with evidence of end organ damage (disorder),null
+stroke,ICD10,G463,Brain stem stroke syndrome,null
+stroke,SNOMED,195201005,Multiple and bilateral precerebral artery syndromes,stroke_IS
+stroke,SNOMED,195209007,Middle cerebral artery syndrome,stroke_IS
+stroke,SNOMED,230703006,Dysarthria-clumsy hand syndrome (disorder),stroke_IS
+stroke,SNOMED,230704000,Multi-infarct state (disorder),stroke_IS
+AF,SNOMED,300996004,Controlled atrial fibrillation (disorder),null
+stroke,ICD10,I634,Cerebral infarction,stroke_IS
+stroke,SNOMED,16002031000119102,Cerebrovascular accident due to thrombus of right middle cerebral artery (disorder),stroke_IS
+AMI,SNOMED,703164000,Acute ST segment elevation myocardial infarction of anterior wall (disorder),null
+stroke,SNOMED,195230003,"Cerebral infarction due to cerebral venous thrombosis, non-pyogenic (disorder)",stroke_IS
+stroke,SNOMED,20059004,Occlusion of cerebral artery (disorder),stroke_IS
+stroke,SNOMED,230713003,Stroke of uncertain pathology (disorder),stroke_NOS
+stroke,ICD10,I630,Cerebral infarction,stroke_IS
+AF,SNOMED,428076002,History of atrial flutter (situation),null
+AF,SNOMED,440028005,Permanent atrial fibrillation (disorder),null
+AMI,SNOMED,194862000,Haemopericardium as current complication following acute myocardial infarction,null
+hypertension,SNOMED,401047000,Hypertension treatment refused (context-dependent category),null
+stroke,SNOMED,230701008,Pure sensorimotor lacunar infarction (disorder),stroke_IS
+stroke,SNOMED,195168007,"Intracerebral haemorrhage, intraventricular",stroke_HS
+stroke,SNOMED,195169004,"Intracerebral hemorrhage, multiple localized",stroke_HS
+stroke,SNOMED,230692004,Infarction - precerebral,stroke_IS
+AMI,SNOMED,394659003,Acute coronary syndrome (disorder),null
+stroke,SNOMED,329641000119104,Cerebrovascular accident due to thrombus of basilar artery (disorder),stroke_IS
+hypertension,SNOMED,428163005,Hypertensive left ventricular hypertrophy (disorder),null
+stroke,SNOMED,426107000,Acute lacunar infarction (disorder),stroke_IS
+AMI,SNOMED,194858006,Subsequent myocardial infarction of inferior wall,null
+AMI,SNOMED,315287002,Diabetes mellitus insulin-glucose infusion in acute myocardial infarction,null
+AMI,SNOMED,371068009,Myocardial infarction with complication (disorder),null
+AMI,SNOMED,401303003,Acute ST segment elevation myocardial infarction (disorder),null
+AMI,SNOMED,401314000,Acute non-ST segment elevation myocardial infarction (disorder),null
+hypertension,SNOMED,843841000000109,Severe hypertension (National Institute for Health and Clinical Excellence 2011) (disorder),null
+hypertension,SNOMED,129151000119102,Chronic kidney disease stage 4 due to hypertension,null
+stroke,SNOMED,230693009,Anterior cerebral circulation infarction (disorder),stroke_IS
+stroke,SNOMED,230694003,Total anterior cerebral circulation infarction (disorder),stroke_IS
+hypertension,ICD10,I13,Hypertensive heart and renal disease,null
+AF,SNOMED,233910005,Lone atrial fibrillation (disorder),null
+hypertension,SNOMED,1201005,Benign essential hypertension,null
+hypertension,SNOMED,123799005,Renovascular hypertension,null
+AMI,SNOMED,703360004,Subsequent non-ST segment elevation myocardial infarction (disorder),null
+stroke,SNOMED,140921000119102,Ischaemic stroke without coma,stroke_IS
+stroke,SNOMED,16000511000119103,Cerebrovascular accident due to occlusion of left middle cerebral artery (disorder),stroke_IS
+AMI,SNOMED,70211005,Acute myocardial infarction of anterolateral wall,null
+stroke,SNOMED,230690007,CVA - Cerebrovascular accident,stroke_NOS
+stroke,SNOMED,195167002,External capsule hemorrhage,stroke_HS
+stroke,SNOMED,7713009,Intrapontine hemorrhage,stroke_HS
+stroke,SNOMED,95454007,Brain stem hemorrhage (disorder),stroke_HS
+AMI,SNOMED,194856005,Subsequent myocardial infarction,null
+AMI,SNOMED,194857001,Subsequent myocardial infarction of anterior wall,null
+hypertension,SNOMED,846371000000103,Stage 2 hypertension (National Institute for Health and Clinical Excellence 2011) (disorder),null
+stroke,SNOMED,195213000,Cerebellar stroke syndrome (disorder),stroke_IS
+AMI,SNOMED,129574000,Postoperative myocardial infarction,null
+stroke,SNOMED,71444005,Cerebral thrombosis,stroke_IS
+hypertension,SNOMED,371125006,Labile essential hypertension (disorder),null
+hypertension,SNOMED,38341003,Hypertensive disease,null
+hypertension,SNOMED,70272006,Malignant hypertension,null
+AF,SNOMED,195080001,Atrial fibrillation and flutter,null
+hypertension,SNOMED,194779001,Hypertensive heart and renal disease with (congestive) heart failure,null
+stroke,SNOMED,230691006,CVA - cerebrovascular accident due to cerebral artery occlusion,stroke_IS
+stroke,SNOMED,308128006,"Right sided intracerebral hemorrhage, unspecified",stroke_HS
+hypertension,SNOMED,59621000,Essential hypertension,null
+hypertension,SNOMED,56218007,Systolic hypertension,null
+AF,SNOMED,134377004,Atrial fibrillation monitoring,null
+AF,SNOMED,312442005,H/O: atrial fibrillation,null
+AF,SNOMED,314208002,Rapid atrial fibrillation (disorder),null
+AMI,SNOMED,233832000,Acute non-Q wave infarction - inferolateral (disorder),null
+AMI,SNOMED,233846000,Ventricular septal defect as current complication following acute myocardial infarction,null
+AMI,SNOMED,233847009,Cardiac rupture after acute myocardial infarction,null
+hypertension,SNOMED,89242004,Malignant secondary hypertension,null
+hypertension,ICD10,I10,Essential (primary) hypertension,null
+AMI,SNOMED,307140009,Acute non-Q wave infarction,null
+AMI,SNOMED,311792005,Postoperative transmural myocardial infarction of anterior wall,null
+hypertension,SNOMED,712832005,Supine hypertension,null
+hypertension,SNOMED,10725009,Benign hypertension,null
+hypertension,SNOMED,471521000000108,[X]Hypertensive diseases (disorder),null
+stroke,SNOMED,195212005,Brainstem stroke syndrome,stroke_NOS
+stroke,SNOMED,195216008,Left sided cerebral hemisphere cerebrovascular accident,stroke_NOS
+AF,ICD10,I48,Atrial fibrillation and flutter,null
+AF,SNOMED,1110851000000100,Quality and Outcomes Framework atrial fibrillation quality indicator-related care invitation (procedure),null
+hypertension,SNOMED,5148006,Hypertensive heart disease with congestive heart failure,null
+hypertension,SNOMED,54225002,Malignant hypertensive heart disease,null
+stroke,SNOMED,75038005,Cerebellar hemorrhage,stroke_HS
+AF,SNOMED,427665004,Paroxysmal atrial flutter (disorder),null
+hypertension,ICD10,I11,Hypertensive heart disease,null
+hypertension,ICD10,I12,Hypertensive renal disease,null
+stroke,SNOMED,16002111000119106,Cerebrovascular accident due to thrombus of left middle cerebral artery (disorder),stroke_IS
+stroke,SNOMED,195189003,Cerebral infarction due to thrombosis of cerebral arteries,stroke_IS
+stroke,SNOMED,230706003,Hemorrhagic cerebral infarction (disorder),stroke_NOS
+stroke,SNOMED,230707007,Anterior cerebral circulation hemorrhagic infarction (disorder),stroke_NOS
+hypertension,SNOMED,194785008,Secondary benign hypertension,null
+AMI,SNOMED,70422006,Acute subendocardial infarction,null
+AMI,ICD10,I21,Acute myocardial infarction,null
+stroke,SNOMED,16371781000119100,Cerebellar stroke (disorder),stroke_NOS
+hypertension,SNOMED,78975002,Malignant essential hypertension,null
+hypertension,SNOMED,194791005,Hypertension secondary to drug,null
+stroke,ICD10,I632,Cerebral infarction,stroke_IS
+stroke,ICD10,I633,Cerebral infarction,stroke_IS
+AMI,SNOMED,398274000,Coronary artery thrombosis (disorder),null
+stroke,SNOMED,274100004,Cerebral hemorrhage,stroke_HS
+AF,SNOMED,233911009,Non-rheumatic atrial fibrillation,null
+AF,SNOMED,248411000000105,Atrial fibrillation annual review (regime/therapy),null
+stroke,SNOMED,1089411000000104,Cerebral infarction due to occlusion of cerebral artery (disorder),stroke_IS
+AMI,SNOMED,703213009,Acute ST segment elevation myocardial infarction of inferior wall (disorder),null
+stroke,SNOMED,276722003,Intracerebellar and posterior fossa hemorrhage (disorder),stroke_HS
+stroke,SNOMED,195210002,Anterior cerebral artery syndrome,stroke_IS
+stroke,SNOMED,195217004,Right sided CVA,stroke_NOS
+AMI,SNOMED,73795002,Acute myocardial infarction of inferior wall,null
+AMI,SNOMED,76593002,Acute myocardial infarction of inferoposterior wall,null
+stroke,ICD10,I635,Cerebral infarction,stroke_IS
+AMI,SNOMED,194865003,Rupture of cardiac wall without hemopericardium as current complication following acute myocardial infarction,null
+AMI,SNOMED,194866002,Rupture of chordae tendinae as current complication following acute myocardial infarction,null
+AMI,SNOMED,314207007,Non-Q wave myocardial infarction (disorder),null
+AMI,SNOMED,54329005,Acute myocardial infarction of anterior wall,null
+stroke,SNOMED,95460007,Cerebellar infarction,stroke_IS
+AMI,SNOMED,57054005,Acute myocardial infarction,null
+AMI,SNOMED,22298006,Myocardial infarction,null
+AMI,SNOMED,233825009,Acute Q wave infarction - anteroseptal (disorder),null
+stroke,ICD10,G464,Cerebellar stroke syndrome,null
+stroke,SNOMED,444172003,Recurrent transient cerebral ischemic attack (disorder),stroke_NOS
+stroke,SNOMED,297138001,Embolus of circle of Willis (disorder),stroke_NOS
+stroke,SNOMED,413102000,Infarction of basal ganglia (disorder),stroke_IS
+stroke,SNOMED,413758000,Cardioembolic stroke (disorder),stroke_IS
+hypertension,SNOMED,36221001,Benign hypertensive heart disease,null
+hypertension,SNOMED,132721000119104,Hypertensive emergency,null
+AMI,SNOMED,62695002,Acute anteroseptal myocardial infarction,null
+AMI,SNOMED,65547006,Acute myocardial infarction of inferolateral wall,null
+stroke,ICD10,I63,Cerebral infarction,stroke_IS
+AMI,SNOMED,285991000119100,Acute ST segment elevation myocardial infarction involving left main coronary artery (disorder),null
+hypertension,SNOMED,36315003,Malignant hypertensive heart disease without congestive heart failure,null
+AMI,SNOMED,311793000,Postoperative transmural myocardial infarction of inferior wall,null
+stroke,SNOMED,276222004,Top of basilar syndrome (disorder),stroke_IS
+stroke,SNOMED,307766002,Left sided cerebral infarction,stroke_IS
+stroke,SNOMED,307767006,Right sided cerebral infarction,stroke_IS
+AMI,SNOMED,233843008,Silent myocardial infarction,null
+stroke,SNOMED,276219001,Occipital cerebral infarction (disorder),stroke_IS
+stroke,ICD10,I64,"Stroke, not specified as haemorrhage or infarction",null
+AMI,SNOMED,703209002,Subsequent ST segment elevation myocardial infarction of inferior wall (disorder),null
+AMI,SNOMED,703211006,Subsequent ST segment elevation myocardial infarction (disorder),null
+stroke,SNOMED,432504007,Cerebral infarction (disorder),stroke_IS
+hypertension,SNOMED,86234004,Hypertensive heart AND renal disease,null
+hypertension,SNOMED,863191000000102,Nocturnal hypertension (disorder),null
+AF,SNOMED,282825002,AF - Paroxysmal atrial fibrillation,null
+stroke,SNOMED,75543006,Cerebral embolism,stroke_IS
+hypertension,SNOMED,845891000000103,Hypertension resistant to drug therapy (disorder),null
+stroke,SNOMED,724424009,Cerebral ischemic stroke due to small artery occlusion (disorder),stroke_IS
+stroke,SNOMED,734383005,Thrombosis of left middle cerebral artery (disorder),stroke_IS
+stroke,SNOMED,732923001,Hemorrhage of medulla oblongata (disorder),stroke_HS
+hypertension,SNOMED,443402002,Lifestyle education regarding hypertension (procedure),null
+hypertension,SNOMED,443482000,Hypertensive urgency (disorder),null
+AMI,SNOMED,79009004,Acute myocardial infarction of septum,null
+AMI,SNOMED,233829003,Acute Q wave infarction - inferior (disorder),null
+AMI,SNOMED,233830008,Acute non-Q wave infarction - inferior (disorder),null
+AMI,SNOMED,428752002,Recent myocardial infarction (situation),null
+AMI,SNOMED,52035003,Acute anteroapical myocardial infarction,null
+AMI,SNOMED,194868001,"Thrombosis of atrium, auricular appendage, and ventricle as current complications following acute myocardial infarction",null
+hypertension,SNOMED,77970009,Benign hypertensive heart disease without congestive heart failure,null
+hypertension,SNOMED,129171000119106,Chronic kidney disease stage 3 due to hypertension,null
+hypertension,SNOMED,83105008,Malignant hypertensive heart disease with congestive heart failure,null
+hypertension,SNOMED,843821000000102,Stage 1 hypertension (National Institute for Health and Clinical Excellence 2011) (disorder),null
+AMI,SNOMED,428196007,Mixed myocardial ischemia and infarction (disorder),null
+stroke,SNOMED,195165005,Basal ganglia hemorrhage,stroke_HS
+stroke,SNOMED,20908003,Subcortical cerebral hemorrhage (disorder),stroke_HS
+AMI,SNOMED,233826005,Acute non-Q wave infarction - anteroseptal (disorder),null
+AMI,SNOMED,233827001,Acute Q wave infarction - anterolateral (disorder),null
+hypertension,SNOMED,66052004,Benign hypertensive heart AND renal disease,null
+hypertension,SNOMED,66610008,Malignant hypertensive heart AND renal disease,null
+AMI,SNOMED,194802003,True posterior myocardial infarction,null
+hypertension,SNOMED,48146000,Diastolic hypertension,null
+AF,SNOMED,49436004,Atrial fibrillation,null
+hypertension,SNOMED,908631000000108,Stage 1 hypertension (National Institute for Health and Clinical Excellence 2011) without evidence of end organ damage (disorder),null
+stroke,SNOMED,230715005,Posterior circulation stroke of uncertain pathology (disorder),stroke_NOS
+stroke,SNOMED,275434003,Stroke in the puerperium,stroke_NOS
+stroke,SNOMED,371041009,Embolic stroke (disorder),stroke_IS
+stroke,SNOMED,276220007,Foville syndrome (disorder),stroke_IS
+stroke,SNOMED,276221006,Millard-Gubler syndrome (disorder),stroke_IS
+stroke,SNOMED,95457000,Brain stem infarction,stroke_IS
+AF,SNOMED,425615007,Chronic atrial flutter (disorder),null
+stroke,SNOMED,195185009,Cerebral infarct due to thrombosis of precerebral arteries,stroke_IS
+stroke,SNOMED,195186005,Cerebral infarction due to embolism of precerebral arteries,stroke_IS
+stroke,SNOMED,24654003,Weber-Gubler syndrome (disorder),stroke_IS
+AF,SNOMED,426749004,Chronic atrial fibrillation (disorder),null
+hypertension,SNOMED,64715009,Hypertensive heart disease,null
+AMI,SNOMED,10273003,Acute infarction of papillary muscle,null
+AMI,SNOMED,1089471000000109,Acute transmural myocardial infarction (disorder),null
+hypertension,ICD10,I15,Secondary hypertension,null
+AF,SNOMED,5370000,Atrial flutter,null
+AF,SNOMED,720448006,Typical atrial flutter (disorder),null
+stroke,SNOMED,125081000119106,Cerebral infarction due to occlusion of precerebral artery,stroke_IS
+stroke,SNOMED,195190007,Cerebral infarction due to embolism of cerebral arteries,stroke_IS
+stroke,ICD10,I694,"Sequelae of stroke, not specified as haemorrhage or infarction",null
+hypertension,SNOMED,194781004,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,null
+hypertension,SNOMED,194783001,Secondary malignant renovascular hypertension,null
+hypertension,SNOMED,169465000,Hypertension induced by oral contraceptive pill,null
+hypertension,SNOMED,194767001,Benign hypertensive heart disease with congestive cardiac failure,null
+hypertension,SNOMED,73410007,Benign secondary renovascular hypertension,null
+hypertension,SNOMED,762463000,Diastolic hypertension co-occurrent with systolic hypertension (disorder),null
+AMI,SNOMED,12238151000119107,Acute ST segment elevation myocardial infarction of inferoposterior wall (disorder),null
+stroke,SNOMED,281240008,Extension of cerebrovascular accident (disorder),stroke_NOS
+hypertension,SNOMED,194788005,Hypertension secondary to endocrine disorders,null
+AMI,SNOMED,233828006,Acute non-Q wave infarction - anterolateral (disorder),null
+stroke,SNOMED,195211003,Posterior cerebral artery syndrome,stroke_IS
+stroke,SNOMED,78569004,Posterior inferior cerebellar artery syndrome,stroke_IS
+stroke,SNOMED,87555007,Claude's syndrome (disorder),stroke_IS
+hypertension,SNOMED,275516004,Cardiomegaly - hypertensive,null
+hypertension,SNOMED,31992008,Secondary hypertension,null
+AMI,SNOMED,194863005,Atrial septal defect as current complication following acute myocardial infarction,null
+hypertension,SNOMED,407567007,Patient on maximal tolerated antihypertensive therapy (finding),null
+AMI,SNOMED,58612006,Acute myocardial infarction of lateral wall,null
+AF,SNOMED,440059007,Persistent atrial fibrillation (disorder),null
+hypertension,SNOMED,706882009,Hypertensive crisis (disorder),null
+AMI,SNOMED,394710008,First myocardial infarction (disorder),null
+stroke,SNOMED,230698000,Lacunar infarction,stroke_IS
+AMI,SNOMED,194867006,Rupture of papillary muscle as current complication following acute myocardial infarction,null
+stroke,SNOMED,230714009,Anterior circulation stroke of uncertain pathology (disorder),stroke_NOS
+stroke,SNOMED,230695002,Partial anterior cerebral circulation infarction (disorder),stroke_IS
+stroke,SNOMED,307363008,Multiple lacunar infarcts (disorder),stroke_IS
+AMI,SNOMED,15990001,Acute myocardial infarction of posterolateral wall,null
+stroke,SNOMED,373606000,Occlusive stroke (disorder),stroke_IS
+stroke,SNOMED,230702001,Lacunar ataxic hemiparesis (disorder),stroke_IS
+AMI,SNOMED,233831007,Acute Q wave infarction - inferolateral (disorder),null
+stroke,SNOMED,195200006,Carotid artery syndrome hemispheric,stroke_IS
+AMI,SNOMED,311796008,Postoperative subendocardial myocardial infarction,null
+stroke,SNOMED,25133001,Completed stroke (disorder),stroke_IS
+stroke,SNOMED,230711001,Thalamic hemorrhage (disorder),stroke_HS
+stroke,SNOMED,230712008,Lacunar hemorrhage (disorder),stroke_HS
+stroke,SNOMED,49422009,Cortical hemorrhage,stroke_HS
+stroke,SNOMED,52201006,Internal capsule hemorrhage,stroke_HS
