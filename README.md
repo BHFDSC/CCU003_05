@@ -1,11 +1,13 @@
 # COVID-19 indirect impacts on cardiovascular health: rapid analytics using linked electronic health records
 
+**Benjamin D Bray, Daniel O’Connell, Danielle E Robinson, Hannah Whittaker, John Nolan, Tom Bolton, Elizabeth I Adesanya, Alison Barnett, Amitava Banerjee, Julia A Critchley, Spiros Denaxas, Kamlesh Khunti, Evan Kontopantelis, Vahe Nafilyan, Tom Porter, Jennifer K Quint, Reecha Sofat, Chris Tomlinson, William Whiteley, Alasdair Wood, Angela Wood, Jonathan Pearson-Stuttard, Cathie Sudlow, on behalf of the CVD-COVID-UK/COVID-IMPACT Consortium**
+
 ## Project description
 
 The aim of the study is to explore the hypothesis that higher than expected deaths after the COVID-19 pandemic are at least partly caused by gaps in the diagnosis and management of major cardiovascular risk factors (hypertension and atrial fibrillation).
 
 ## How to cite this work
-> Citation details to follow
+> Citation to follow. The preprint can be viewed here: https://dx.doi.org/10.2139/ssrn.4972808
 
 ## Contents
 
